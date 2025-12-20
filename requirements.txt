@@ -1,0 +1,1 @@
+# Nenhuma dependencia externa alem da biblioteca padrao.

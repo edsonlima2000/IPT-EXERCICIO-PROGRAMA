@@ -1,0 +1,11 @@
+# Ambiente local
+.venv/
+__pycache__/
+
+# Midia grande não versionada
+*.mp4
+*.m4a
+
+# Cache/editor
+.vscode/
+.idea/
