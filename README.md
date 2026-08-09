@@ -1,5 +1,7 @@
 # Red-Black Tree — Programming Assignment 1
 
+![Red-Black Tree — Programming Assignment 1 social preview](artwork/social-preview.jpg)
+
 A Python implementation of the CLRS red-black tree with Tkinter visualization and interactive operations.
 
 [Português](#português)
